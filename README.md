@@ -1,2 +1,2 @@
 # iloveprivacy
-auto-detect and redact
+auto-detects and redacts
