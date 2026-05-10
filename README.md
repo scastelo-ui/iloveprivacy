@@ -185,7 +185,7 @@ Please contact our █ [LOCATION] office to confirm.
 ## Author
 
 **Sophia**  
-Operations & Process Improvement | JPMorganChase  
+Incoming Process Improvement Analyst - Automations Test Analyst | CCB HL AI Ops & Automation | JPMorganChase  
 Building side projects to transition into tech.
 
 ---
